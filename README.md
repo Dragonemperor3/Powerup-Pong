@@ -4,6 +4,6 @@ Blue makes the user's paddle longer
 Yellow makes the opponent's paddle shorter
 Green makes the user's paddle faster
 Red makes the opponent's paddle faster
-Grey randomly changes the speed of the ball
+Grey randomly changes the speed of the ball.
 
-All speeds and heights are reset after scoring
+All speeds and heights are reset after scoring.
